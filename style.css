@@ -1,0 +1,47 @@
+.center{
+    
+    text-align: center;
+}
+
+body{
+    justify-content: center;
+    text-align: center;
+    
+}
+h2{
+    /* background-color: bisque; */
+    text-align: justify;
+}
+
+p{
+    background-color: rgb(255, 240, 241);
+    text-align: justify;
+}
+
+.btn{
+    width: 15px;
+    height: 15px;
+    border: solid black;
+    display: inline-block  ;
+    border-radius: 50%;
+}
+
+#white{
+    background-color: white;
+}
+
+#black{
+    background-color: black;
+}
+
+#violet{
+    background-color: violet;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+#color-switcher{
+    text-align: right;
+}
